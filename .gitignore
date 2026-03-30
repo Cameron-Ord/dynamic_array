@@ -1,4 +1,7 @@
 .cache
 build
 *.exe
-
+*.dll
+*.so
+*.a
+*.o
